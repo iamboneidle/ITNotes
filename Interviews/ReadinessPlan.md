@@ -12,7 +12,7 @@ ___
 - [ ] Сети
 	- [ ] mTLS
 - [x] Диски и ФС
-- [x] Docker
+- [ ] Docker
 - [ ] Ansible
 - [ ] Kubernetes
 	- [ ] Kubernetes the hard way
