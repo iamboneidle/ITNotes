@@ -5,4 +5,5 @@ ___
 ___
 # Содержание
 - [[DiskIssues]]
+- [[LoadAverage]]
 ___
