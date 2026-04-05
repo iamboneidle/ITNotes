@@ -4,10 +4,10 @@ ___
 #kafka 
 ___
 # Содержание
-- [[#Ссылки]]
+- [[#1. Ссылки]]
 - [[#Литература]]
 ___
-# Ссылки
+# 1. Ссылки
 - [Документация Kafka](https://kafka.apache.org/documentation/)
 - [Kafka. Лучшие практики применения. Настройки Producer & Consumer](https://habr.com/ru/articles/853652/)
 - [Материалы с выступления на Analyst Days 20](https://analystdays.ru/ru/talk/132295)
