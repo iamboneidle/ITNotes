@@ -6,6 +6,6 @@
 .
 ├── IT           # |<- Заметки
 ├── SupportStuff # |<- Вспомогательные файлы
-├── README.md
-└── .gitignore
+├── .gitignore 
+└── README.md
 ```
