@@ -15,7 +15,7 @@ ___
 
 ### Список плагинов Obsidian для корректного просмотра
 
-- [Code Styler](obsidian://show-plugin?id=code-styler)
-- [Excalidraw](obsidian://show-plugin?id=obsidian-excalidraw-plugin)
-- [Highlightr](obsidian://show-plugin?id=highlightr-plugin)
 - [Ink](obsidian://show-plugin?id=ink)
+- [Highlightr](obsidian://show-plugin?id=highlightr-plugin)
+- [Excalidraw](obsidian://show-plugin?id=obsidian-excalidraw-plugin)
+- [Code Styler](obsidian://show-plugin?id=code-styler)
