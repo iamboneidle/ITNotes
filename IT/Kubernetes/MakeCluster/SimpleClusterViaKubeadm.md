@@ -138,6 +138,10 @@ sudo chown $(id -u):$(id -g) $HOME/.kube/config
 ```shell
 kubectl apply -f https://github.com/flannel-io/flannel/releases/latest/download/kube-flannel.yml
 ```
+После этого стартанут поды **CoreDNS**. Проверить так:
+```shell
+kubectl get pods -A -o wide
+```
 ___
 # 2. Добавление slave-нод
 ## 2.1. Получение токена
