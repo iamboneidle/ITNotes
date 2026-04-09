@@ -5,5 +5,5 @@ ___
 ___
 # Содержание
 - [[HardWay|Kubernetes The Hard Way]]
-- [[ClusterViaKubeadm|Создание кластера с kubeadm]]
+- [[SimpleClusterViaKubeadm|Простейшее создание кластера с kubeadm]]
 ___

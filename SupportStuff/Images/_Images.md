@@ -6,6 +6,7 @@ ___
 - [[CommonVMemScheme.png]]
 - [[CommutationLevel.svg]]
 - [[DockerDashboard.png]]
+- [[InractiveNoninteractive.png]]
 - [[KubectlExecFromContainer.png]]
 - [[KVM.png]]
 - [[NegativeCPU.png]]
