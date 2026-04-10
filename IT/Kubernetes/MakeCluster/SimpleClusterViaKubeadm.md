@@ -18,6 +18,7 @@ ___
 - [[#2. Добавление slave-нод]]
 	- [[#2.1. Получение токена]]
 	- [[#2.2. Добавление ноды]]
+- [[#Литература]]
 ___
 # 0. Подготовка
 ## 0.1. Конфигурация машин
@@ -165,3 +166,6 @@ sudo kubeadm join XXX.XX.XX.XX:6443 --token xxxxxx.1yyyy1y4y7y6yy3y --discovery-
 ```
 #### Готово!
 ___
+# Литература
+- [Девопс на троечку](https://youtu.be/Vw0c3ZaR9uI?is=qAXO8QZT9Qbhf--k)
+- [kubeadm-k8s1.30.sh](https://github.com/evsq/devopsnatroechku/blob/main/kubeadm-k8s1.30.sh)
