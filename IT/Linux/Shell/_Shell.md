@@ -4,7 +4,8 @@ ___
 #linux
 ___
 # Содержание
-- [[BaseTerminalInfo|База о терминале]]
+- [[AWK|awk]]
 - [[Bash]]
+- [[BaseTerminalInfo|База о терминале]]
 - [[DifferentShells|Различные оболочки]]
 ___
