@@ -52,7 +52,7 @@ spec:
     requests:      # |<- размер запрашиваемого хранилища 1Гб
       storage: 1Gi # |__
   accessModes:
-    – ReadWriteOnce # |<- хранилище поддерэивает одного клиента
+    – ReadWriteOnce # |<- хранилище поддерживает одного клиента
   storageClassName: ""
 ```
 ___
