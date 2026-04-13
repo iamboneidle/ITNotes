@@ -8,4 +8,5 @@ ___
 - [[Bash]]
 - [[BaseTerminalInfo|База о терминале]]
 - [[DifferentShells|Различные оболочки]]
+- [[RcProfileLogin]]
 ___

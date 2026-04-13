@@ -1,7 +1,7 @@
 ___
 ___
 # Tags
-#zookeeper
+#brockers
 ___
 # Содержание
 - 
