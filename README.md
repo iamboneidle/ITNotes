@@ -24,6 +24,6 @@ ___
 - [Code Styler](obsidian://show-plugin?id=code-styler)
 
 ### Contacts
-- Telegram-канал: [@oopshappens](t.me/oopshappens);
-- Telegram:       [@iamworkidle](t.me/iamworkidle);
+- Telegram-канал: [@oopshappens](https://t.me/oopshappens);
+- Telegram:       [@iamworkidle](https://t.me/iamworkidle);
 - Mail:           fyodorpanfilov@gmail.com.
