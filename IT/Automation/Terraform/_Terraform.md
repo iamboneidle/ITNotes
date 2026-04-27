@@ -1,9 +1,8 @@
 ___
 ___
 # Tags
-#nginx 
+#automation
 ___
 # Содержание
 - 
 ___
-

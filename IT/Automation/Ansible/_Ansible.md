@@ -1,7 +1,7 @@
 ___
 ___
 # Tags
-#ansible
+#automation 
 ___
 # Содержание
 - [[ImportOrIncludeRole|import_role или include_role]]

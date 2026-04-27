@@ -1,7 +1,7 @@
 ___
 ___
 # Tags
-#ansible
+#automation 
 ___
 # Содержание
 - [[#1. Control node]]

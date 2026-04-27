@@ -1,7 +1,7 @@
 ___
 ___
 # Tags
-#ansible 
+#automation 
 ___
 Фан факт из мира Ansible. Есть различия между `import_role` и `include_role`.
 

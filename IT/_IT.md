@@ -1,17 +1,17 @@
 ___
 ___
 # Содержание
-- [[_Ansible|Ansible]]
-- [[_Containerization|Containerization]]
-- [[_Databases|Databases]]
-- [[_Interviews|Interviews]]
-- [[_Kafka|Kafka]]
+- [[_CI|Continuous Integration]]
 - [[_Kubernetes|Kubernetes]]
 - [[_Linux|Linux]]
-- [[_Monitoring|Monitoring]]
-- [[IT/Network/_Network|Network]]
-- [[_Nginx|Nginx]]
-- [[_Virtualization|Virtualization]]
-- [[_Brockers|Brockers]]
+- [[_Automation|Автоматизация Ansible&Terraform]]
+- [[_Databases|Базы данных]]
+- [[_Balancers|Балансировщики]]
+- [[_Brockers|Брокеры]]
+- [[_Virtualization|Виртуализация]]
+- [[_Interviews|Вопросы к интервью]]
+- [[_Containerization|Контейнеризация]]
+- [[_Monitoring|Мониторинг]]
+- [[IT/Network/_Network|Сети]]
 ___
 [[Current]]
