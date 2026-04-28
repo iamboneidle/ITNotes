@@ -6,4 +6,6 @@ ___
 # Содержание
 - [[DiskIssues]]
 - [[LoadAverage]]
+- [[eBPF]]
+- [[IOWait|IO Wait]]
 ___

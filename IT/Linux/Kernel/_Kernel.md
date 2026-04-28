@@ -9,4 +9,6 @@ ___
 - [[SysCalls|Системные вызовы]]
 - [[Signals|Сигналы]]
 - [[RunLevels|Уровни выполнения Linux]]
+- [[ContextSwitchingInterrupts|Context switch & Interrupts]]
+- [[SysCTL|sysctl]]
 ___
