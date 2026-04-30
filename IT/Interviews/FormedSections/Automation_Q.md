@@ -39,4 +39,5 @@ ___
 > - Jenkins;
 > - GitLab CI;
 > - GitHub Actions.
+#### 4. next
 ___
