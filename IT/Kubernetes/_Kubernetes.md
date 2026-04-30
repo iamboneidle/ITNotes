@@ -16,4 +16,6 @@ ___
 - [[_ConfigMap|Словари конфигурации (ConfigMap)]]
 - [[_Services|Службы (Services)]]
 - [[_Volumes|Тома (Volumes)]]
+- [[_ETCD|ETCD]]
+- [[_Scheduler|Scheduler]]
 ___

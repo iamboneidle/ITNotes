@@ -4,7 +4,9 @@ ___
 #linux
 ___
 # Содержание
-- 
+- [[#1. VIRT (Virtual Memory)]]
+- [[#2. RES (Resident Memory)]]
+- [[#3. SHR (Shared Memory)]]
 ___
 # 1. VIRT (Virtual Memory)
 **VIRT** — это общий объем виртуального адресного пространства, который процесс «застолбил» за собой.

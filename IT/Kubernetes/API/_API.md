@@ -4,5 +4,5 @@ ___
 #kubernetes 
 ___
 # Содержание
-- 
+- [[AdmissionWebhooks|Admission Webhooks]]
 ___
