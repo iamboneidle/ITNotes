@@ -5,7 +5,6 @@ ___
 - [[_Kubernetes|Kubernetes]]
 - [[_Linux|Linux]]
 - [[_Automation|Автоматизация Ansible&Terraform]]
-- [[_Databases|Базы данных]]
 - [[_Balancers|Балансировщики]]
 - [[_Brockers|Брокеры]]
 - [[_Virtualization|Виртуализация]]
@@ -13,5 +12,6 @@ ___
 - [[_Containerization|Контейнеризация]]
 - [[_Monitoring|Мониторинг]]
 - [[IT/Network/_Network|Сети]]
+- [[_Storages|Хранилища]]
 ___
 [[Current]]

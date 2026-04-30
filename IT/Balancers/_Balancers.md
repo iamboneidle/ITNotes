@@ -4,5 +4,6 @@ ___
 #balancers
 ___
 # Содержание
+- [[_HAProxy|HAProxy]]
 - [[_Nginx|Nginx]]
 ___

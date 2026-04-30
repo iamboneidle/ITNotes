@@ -1,8 +1,8 @@
 ___
 ___
 # Tags
-#databases 
+#brockers 
 ___
 # Содержание
-- [[OracleInvalidObjects]]
+- 
 ___
