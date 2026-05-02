@@ -4,8 +4,12 @@ ___
 #kubernetes
 ___
 # Содержание
+- [[IT/Kubernetes/Network/_Network||Сеть]]
 - [[_API|API]]
+- [[IT/Kubernetes/Debug/_Debug|Debug]]
+- [[_ETCD|ETCD]]
 - [[_Helm|Helm]]
+- [[_Scheduler|Scheduler]]
 - [[BaseArchitectureInfo|Базовая информация об устройстве Kubernetes]]
 - [[_Security|Безопасность/отказоустойчивость]]
 - [[_Pod|Модули (Pod)]]
@@ -16,6 +20,4 @@ ___
 - [[_ConfigMap|Словари конфигурации (ConfigMap)]]
 - [[_Services|Службы (Services)]]
 - [[_Volumes|Тома (Volumes)]]
-- [[_ETCD|ETCD]]
-- [[_Scheduler|Scheduler]]
 ___

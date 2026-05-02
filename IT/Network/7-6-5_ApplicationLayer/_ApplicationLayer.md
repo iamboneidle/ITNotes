@@ -11,5 +11,7 @@ ___
 # Содержание
 - [[DNSResolution|Работа с IP-адресами и Hostname (резолв)]]
 - [[TLS-SSL|(m)TLS/SSL]]
+- [[HTTP-2|HTTP/2]]
 - [[HTTP-3|HTTP/3]]
+- [[gRPC]]
 ___

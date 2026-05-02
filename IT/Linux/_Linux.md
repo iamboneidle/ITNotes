@@ -8,7 +8,7 @@ ___
 - [[_Booting|Booting]]
 - [[_Common|Common]]
 - [[_CPU|CPU]]
-- [[_Debug|Debug]]
+- [[IT/Linux/Debug/_Debug|Debug]]
 - [[_Kernel|Ядро]]
 - [[_Memory|Memory]]
 - [[IT/Linux/Network/_Network|Network]]
