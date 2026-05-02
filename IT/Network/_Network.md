@@ -4,14 +4,9 @@ ___
 #network
 ___
 # Содержание
-- [[BGP-VXLAN]]
-- [[Ethernet]]
-- [[TLS-SSL|(m)TLS/SSL]]
-- [[NAT]]
-- [[SSH]]
-- [[BaseTCP-IP|База о TCP/IP]]
-- [[NetworkTypes|База о сетях]]
 - [[OSIModel|Модель OSI]]
-- [[IPAddress|Про IP-адреса]]
-- [[DNSResolution|Работа с IP-адресами и Hostname (резолв)]]
+- [[_ApplicationLayer|Прикладной уровень (7, 6, 5)]]
+- [[_TransportLayer|Транспортный уровень (4)]]
+- [[_InternetLayer|Интернет уровень (3)]]
+- [[_NetworkAccessLayer|Сетевой доступ уровень (2, 1)]]
 ___
