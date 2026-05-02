@@ -4,6 +4,9 @@ ___
 #linux 
 ___
 # Содержание
-- [[IPtables]]
+- [[iptables]]
+- [[nftables]]
+- [[IPVS]]
+- [[NDots|ndots]]
 - [[Sockets|Сокеты]]
 ___
