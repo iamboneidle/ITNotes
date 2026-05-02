@@ -11,4 +11,5 @@ ___
 # Содержание
 - [[DNSResolution|Работа с IP-адресами и Hostname (резолв)]]
 - [[TLS-SSL|(m)TLS/SSL]]
+- [[HTTP-3|HTTP/3]]
 ___
