@@ -11,6 +11,7 @@ ____
 - [[#2. В чем разница между git merge и git rebase?]]
 - [[#3. Какая разница между Git pull/Git fetch?]]
 - [[#4. Версионирование. Какая разница между SemVer и CalVer?]]
+- 
 ___
 # Вопросы
 #### 1. Как решить merge conflict? Что такое rebase, cherry-pick?

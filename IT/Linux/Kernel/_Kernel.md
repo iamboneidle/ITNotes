@@ -12,4 +12,5 @@ ___
 - [[ContextSwitchingInterrupts|Context switch & Interrupts]]
 - [[SysCTL|sysctl]]
 - [[Conntrack]]
+- [[Tuning|Тюнинг ядра]]
 ___

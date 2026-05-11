@@ -74,7 +74,7 @@ Stage 2 умеет:
 Исторически это был `/sbin/init` (SysVinit). Сейчас в большинстве дистрибутивов — **systemd**.  
 systemd читает юниты (`*.service`, `*.target`) и строит граф зависимостей для параллельного запуска сервисов.
 ## 2.8 Запуск сервисов
-systemd поднимает сервисы согласно **target**'ам:
+systemd поднимает сервисы согласно **target**'ам [[SystemD]]:
 - `sysinit.target` → базовая инициализация
 - `basic.target` → сеть, логирование
 - `multi-user.target` → все фоновые сервисы
@@ -92,4 +92,3 @@ systemd поднимает сервисы согласно **target**'ам:
 |`~/.bashrc` / `~/.zshrc`|интерактивный non-login shell|
 |`~/.profile`|ogin shell (POSIX fallback)|
 ___
-

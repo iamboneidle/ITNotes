@@ -9,4 +9,7 @@ ___
 - [[IPVS]]
 - [[NDots|ndots]]
 - [[Sockets|Сокеты]]
+- [[Stack|Сетевой стек Linux]]
+- [[PBR|Policy-based routing]]
+- [[Ports]]
 ___
