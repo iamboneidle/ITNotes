@@ -4,7 +4,6 @@ ___
 #kubernetes 
 ___
 # Содержание
-- [[HelmPackageManager|Пакетный менеджер Helm]]
 - 
 ___
 

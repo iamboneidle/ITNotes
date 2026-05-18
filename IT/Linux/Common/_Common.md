@@ -5,6 +5,7 @@ ___
 ___
 # Содержание
 - [[Cron]]
+- [[SudoSu]]
 - [[UsefulCommands]]
 - [[UsefulUtils]]
 ___

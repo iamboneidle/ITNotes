@@ -5,7 +5,6 @@ ___
 ___
 # Содержание
 - [[#1. Ссылки]]
-- [[#Литература]]
 ___
 # 1. Ссылки
 - [Документация Kafka](https://kafka.apache.org/documentation/)
@@ -16,5 +15,4 @@ ___
 - [Доклад на конференции UWDC 2024. «Apache Kafka: погружение на 45 минут. Григорий Кошелев, Контур»](https://youtu.be/V5t_3RxBals?si=fZ5SgJHqOo-wsySU)
 - [Доклад на конференции Backend Conf 2017. “Брокер сообщений Kafka в условиях повышенной нагрузки / Артём Выборнов (Rambler&Co)”](https://m.youtube.com/live/BtmYjTO1EpI)
 ---
-# Литература
-- https://docs.google.com/document/u/0/d/1-NhLgIfCMd1ZeQ_OxTY4kDOVJrnPsB-SgzFQMjGpSoY/mobilebasic
+

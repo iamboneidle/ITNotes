@@ -4,5 +4,5 @@ ___
 #storages
 ___
 # Содержание
-- [[OracleInvalidObjects]]
+- 
 ___
