@@ -12,6 +12,7 @@ ___
 - [[_Containerization|Контейнеризация]]
 - [[_Monitoring|Мониторинг]]
 - [[IT/Network/_Network|Сети]]
+- [[_SystemDesign|Систем-дизайн]]
 - [[_Storages|Хранилища]]
 ___
 [[Current]]
