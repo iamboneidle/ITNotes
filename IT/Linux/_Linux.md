@@ -14,3 +14,4 @@ ___
 - [[IT/Linux/Network/_Network|Network]]
 - [[_Processes|Processes]]
 - [[_Shell|Shell]]
+- [[_Cheating|Полезности]]
