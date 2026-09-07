@@ -20,4 +20,5 @@ ___
 - [[_ConfigMap|Словари конфигурации (ConfigMap)]]
 - [[_Services|Службы (Services)]]
 - [[_Volumes|Тома (Volumes)]]
+- [[_Istio|Istio]]
 ___

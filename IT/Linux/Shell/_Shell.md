@@ -9,4 +9,5 @@ ___
 - [[BaseTerminalInfo|База о терминале]]
 - [[DifferentShells|Различные оболочки]]
 - [[RcProfileLogin]]
+- [[SetupTerm]]
 ___
